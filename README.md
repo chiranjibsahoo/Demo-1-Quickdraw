@@ -1,1 +1,1 @@
-# Demo-1-Quickdraw:
+# Demo-1-Quickdraw
